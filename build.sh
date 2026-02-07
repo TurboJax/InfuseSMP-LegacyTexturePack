@@ -1,3 +1,3 @@
 #!/bin/bash
 
-zip InfuseSMP.zip -r assets/ pack.mcmeta pack.png
+zip InfusePack-Legacy.zip -r assets/ pack.mcmeta pack.png
